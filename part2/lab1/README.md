@@ -58,7 +58,7 @@ g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task1_control.cpp -o task1_contr
 ./task1_1
 ./task1_2
 ./task1_3
-./task1_4
+./task1_4 input.txt
 ./task1_control
 ```
 
@@ -84,7 +84,7 @@ g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task1_3.cpp -o task1_3
 
 ```
 g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task1_4.cpp -o task1_4
-./task1_4
+./task1_4 input.txt
 ```
 ![task1_4](https://github.com/InessaRepeshko/programming-basics/blob/main/part2/lab1/screens/task1_4.png)
 
