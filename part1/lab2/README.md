@@ -28,6 +28,7 @@ The loop terminates if new summand is less than eps.
 ## 2.5 Individual Assignment
 
 You should develop a program that calculates values of a function in a given range. The program should implement an algorithm developed in carrying out assignment 1.3 of previous lab.
+
 ![Function_var18](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab1/screens/Function_var18.png)
 
 
