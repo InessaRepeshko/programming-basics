@@ -11,8 +11,11 @@ Solve task 1.3 of the third laboratory training . Use lambda expressions instead
 
 ## Examples of program results
 
+Results for add_task_1:
+
 ![add_task_1](https://github.com/InessaRepeshko/programming-basics/blob/main/part2/additional_task/screens/add_task_1.png)
 
+Results for add_task_2:
 ![add_task_2](https://github.com/InessaRepeshko/programming-basics/blob/main/part2/additional_task/screens/add_task_2.png)
 
 © Inessa Repeshko. 2023
