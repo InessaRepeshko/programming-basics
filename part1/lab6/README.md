@@ -11,6 +11,7 @@ Write a program that implements exhaustive search of some value according to an 
 The source code should be split into two translation units. The first translation unit will be represented by both header file and implementation file. The typedef definition, as well as declaration of function that searches necessary value, should be placed into header file. The definition of this function will take place in implementation file corresponding to header file. The testing function, as well as main() function, should be placed into another translation unit.
 
 The task requirement of variant 25:
+
 ![var25](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab6/screens/var25.png)
 
 You should check the functionality of the program on at least two arbitrary functions. One of the functions can be standard.
@@ -36,12 +37,14 @@ g++ Header.h Header.cpp Task.cpp
 
 ## Examples of program results
 ```
+Task6_1:
 g++ Header.h Header.cpp Task.cpp
 ./a.out
 ```
 ![task6_1](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab6/screens/task6_1.png)
 
 ```
+Task6_2:
 g++ Header.h Header.cpp Task.cpp
 ./a.out
 ```
