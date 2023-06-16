@@ -1,4 +1,4 @@
-## Laboratory Training № 2 "C++ Operators and Statements".
+## Laboratory Training № 2 "C++ Operators and Statements"
 
 ## 2.1 Programmatic Implementation of Branching Algorithm
 Develop a program that implements an algorithm for solving quadratic equation. The program should include checking all possible variants of the source data. In particular, the discriminant should be checked, and it should be checked whether the equation is quadratic. If the equation degenerates into a linear one, it is necessary to provide for finding the root of this linear equation, or to establish the presence of infinite count of solutions (absence of solutions).
@@ -7,7 +7,7 @@ Develop a program that implements an algorithm for solving quadratic equation. T
 
 Develop a program that implements an algorithm for calculating the following expression:
 
-y = 1/(x + 2) + 2/(x + 4) + ... + (k - 1)/(x + 2(k - 1)) + (k + 1)/(x + 2(k + 1)) + ... + n/(x + 2n)
+*y = 1/(x + 2) + 2/(x + 4) + ... + (k - 1)/(x + 2(k - 1)) + (k + 1)/(x + 2(k + 1)) + ... + n/(x + 2n)*
 
 Provide a check of possible errors.
 
@@ -15,13 +15,13 @@ Provide a check of possible errors.
 
 Write a program that reads x and n and calculates y:
 
-y = (x + 1)(x - 2)(x + 3)(x - 4) ... (x - 2n)
+*y = (x + 1)(x - 2)(x + 3)(x - 4) ... (x - 2n)*
 
 ## 2.4 Calculating Product
 
 Write a program that reads eps and calculates y:
 
-y = 1/2 + 1/4 + 1/8 + 1/16 + ...
+*y = 1/2 + 1/4 + 1/8 + 1/16 + ...*
 
 The loop terminates if new summand is less than eps.
 

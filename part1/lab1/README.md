@@ -1,4 +1,4 @@
-## Laboratory Training № 1 "Design of Algorithms".
+## Laboratory Training № 1 "Design of Algorithms"
 
 ## 1.1 Implementation of a Branching Algorithm
 Implement an algorithm for solving quadratic equation. The algorithm should consider all possible data. In particular, the discriminant should be checked, and it should be checked whether the equation is quadratic. If the equation degenerates into a linear one, it is necessary to provide for finding the root of this linear equation, or to establish the presence of infinite count of solutions (absence of solutions). Use the UML Activity diagram for algorithm presentation.
@@ -11,7 +11,7 @@ Implement an algorithm for solving quadratic equation. The algorithm should cons
 
 Implement an algorithm for calculating the following expression:
 
-y = 1/(x + 2) + 2/(x + 4) + ... + (k - 1)/(x + 2(k - 1)) + (k + 1)/(x + 2(k + 1)) + ... + n/(x + 2n)
+*y = 1/(x + 2) + 2/(x + 4) + ... + (k - 1)/(x + 2(k - 1)) + (k + 1)/(x + 2(k + 1)) + ... + n/(x + 2n)*
 
 Use the UML Activity diagram for algorithm presentation. Provide a check of possible errors.
 
