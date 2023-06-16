@@ -21,6 +21,7 @@ Write a program that sorts items of an array of integers in descending order.
 You should create a program that defines and initializes a two-dimensional array of integer items and then implements following activities:
 * transformation of the source array according to step one of the individual assignment;
 * creation and filling of a new (one-dimensional) array of double precision floating point type items according to step two of the individual assignment output of both array items.
+
 The program should signal errors if transformation or filling are not possible.
 The task requirement of variant 25:
 ![var25](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab4/screens/var25.png)
