@@ -45,21 +45,25 @@ g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task3_1.cpp -o task3_1
 ```
 ![task3_1](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab3/screens/task3_1.png)
 
+```
 g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task3_2.cpp -o task3_2
 ./task3_2
 ```
 ![task3_2](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab3/screens/task3_2.png)
 
+```
 g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task3_3.cpp -o task3_3
 ./task3_3
 ```
 ![task3_3](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab3/screens/task3_3.png)
 
+```
 g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task3_4.cpp -o task3_4
 ./task3_4
 ```
 ![task3_4](https://github.com/InessaRepeshko/programming-basics/blob/main/part1/lab3/screens/task3_4.png)
 
+```
 g++ -std=c++11 -Wall -Wextra -Werror -Wpedantic task3_5.cpp -o task3_5
 ./task3_5
 ```
